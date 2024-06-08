@@ -6,7 +6,7 @@ A simple Go library to convert currency amounts from one currency to another usi
 
 To install the library, run:
 ```sh
-go get github.com/yourusername/currency-converter/converter
+go get github.com/dev-soubhagya/currency-converter
 ```
 ## Usage
 
@@ -16,7 +16,7 @@ package main
 import (
     "fmt"
     "log"
-    "github.com/yourusername/currency-converter/converter"
+    "github.com/dev-soubhagya/currency-converter/converter"
 )
 
 func main() {

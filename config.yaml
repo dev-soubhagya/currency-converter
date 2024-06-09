@@ -1,0 +1,9 @@
+# config.yaml
+app_name: Currency Converter
+version: 1.0.0
+maintainer: dev-soubhagya
+
+currency_settings:
+  default_from: USD
+  default_to: INR
+  exchange_rate_api: https://api.exchangerate-api.com/v4/latest/USD

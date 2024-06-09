@@ -36,3 +36,16 @@ func main() {
 ```bash
 go run main.go
 ```
+## Activity
+
+## Recent Activity
+* Latest Release: v1.0.0 - Initial release.
+* New Feature: Added support for converting USD to INR. (#12)
+* Bug Fix: Fixed issue with exchange rate fetching. (#15)
+
+- **Issues**: ![GitHub issues](https://img.shields.io/github/issues/dev-soubhagya/currency-converter)
+  ```markdown
+- **Pull Requests**: ![GitHub pull requests](https://img.shields.io/github/issues-pr/dev-soubhagya/currency-converter)
+  ```markdown
+- **Last Commit**: ![GitHub last commit](https://img.shields.io/github/last-commit/dev-soubhagya/currency-converter)
+```markdown
